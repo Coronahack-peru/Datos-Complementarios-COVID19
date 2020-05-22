@@ -19,4 +19,8 @@ Aquí el site construido en base al repositorio: https://perucovid19.netlify.app
 
 **ShapeFiles**: Shape files Distritales 
 
+**Renipress_2020**: Información de entidades prestadoras de salud. [Data actualizada hasta anterior a Abril del 2020] 
+
+
+
 
