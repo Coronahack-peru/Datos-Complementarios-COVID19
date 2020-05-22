@@ -11,9 +11,7 @@ Aquí el site construido en base al repositorio: https://perucovid19.netlify.app
 
 **google mobility**: Datos de Google "movility" - Recopilado por @hugonopo
 
-**informacion_distritos**: Información de casos positivos y fallecidos por distrito a nivel nacional. La información se recoge de las DIRESAs.
-
-**informacion_diresa_fallecidos**: Información de los fallecidos (sexo, edad, entre otros) reportado por las direcciones regionales de Salud
+**diresas**: Información recogida de las diresas casos positivos y fallecidos. Información a nivel de distritos. Ojo, no están todas las diresas y se usan como fuentes las publicaciones de la diresa en redes sociales 
 
 **descargas sala situacional [folder]**: Información descargada diariamente de la sala situacional del MINSA: https://covid19.minsa.gob.pe/sala_situacional.asp
 
@@ -21,6 +19,9 @@ Aquí el site construido en base al repositorio: https://perucovid19.netlify.app
 
 **Renipress_2020**: Información de entidades prestadoras de salud. [Data actualizada hasta anterior a Abril del 2020] 
 
+## Links páginas relevantes:
 
+[Portal COVID del OSCE](https://portal.osce.gob.pe/osce/conosce/covid19.html): compras con recursos covid, por ejemplo, las canastas
+[Portal COVID de PERUCOMPRAS](https://www.perucompras.gob.pe/contrataciones/contrataciones-emergencia-covid19.php): proveedores en pruebas para covid
 
 
