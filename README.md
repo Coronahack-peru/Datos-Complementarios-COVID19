@@ -19,6 +19,13 @@ Aquí el site construido en base al repositorio: https://perucovid19.netlify.app
 
 **Renipress_2020**: Información de entidades prestadoras de salud. [Data actualizada hasta anterior a Abril del 2020] 
 
+**IDH2019**
+
+**INFORMACIÓN DE DISTRITOS 2020** 
+
+**POBREZA2018-INEI**  Mapa de pobreza 
+
+
 ## Links páginas relevantes:
 
 [Portal COVID del OSCE](https://portal.osce.gob.pe/osce/conosce/covid19.html): compras con recursos covid, por ejemplo, las canastas
