@@ -24,4 +24,11 @@ Aquí el site construido en base al repositorio: https://perucovid19.netlify.app
 [Portal COVID del OSCE](https://portal.osce.gob.pe/osce/conosce/covid19.html): compras con recursos covid, por ejemplo, las canastas
 [Portal COVID de PERUCOMPRAS](https://www.perucompras.gob.pe/contrataciones/contrataciones-emergencia-covid19.php): proveedores en pruebas para covid
 
+## Links a repositorios con avances 
+[jlcoto](https://github.com/jlcoto/covid-peru-data): ha limpiado y agregado el ubigeo a la data 
+[sergiocorreia](https://github.com/sergiocorreia/data-covid-minsa/): ha limpiado, y agregado otras variables como ubicación geográfica, etc
+[gissemari](https://github.com/gissemari/covid19Peru): código en python para limpiar la data
+
+
+
 
